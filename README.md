@@ -4,4 +4,4 @@
 
 🔭 Trabalhando como Desenvolvedor Full Stack Senior, no time de escala tecnológica, no *[Bling ERP](https://www.bling.com.br)*;
 
-🔗 [sirioneto.dev](sirioneto.dev)
+🔗 [sirioneto.dev](https://sirioneto.dev)
